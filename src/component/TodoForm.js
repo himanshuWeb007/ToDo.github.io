@@ -32,7 +32,7 @@ function TodoForm(props) {
             <>
             <input
                 type='text'
-                placeholder='Update Your Item'
+                placeholder='Update Your Items'
                 value={input}
                 name='text'
                 className='todo-input edit'
@@ -47,7 +47,7 @@ function TodoForm(props) {
             <>
             <input
                 type='text'
-                placeholder='Add a Todo'
+                placeholder='Add Your Todo'
                 value={input}
                 name='text'
                 className='todo-input'
